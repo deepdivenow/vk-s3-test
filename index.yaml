@@ -1,0 +1,1919 @@
+apiVersion: v1
+generated: 2025-08-06T23:11:54.466199112Z
+entries:
+  3proxy:
+    - name: 3proxy
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.9.4
+      type: application
+      urls:
+        - 3proxy-0.1.1.tgz
+      created: 2024-05-30T12:00:19.114833846+03:00
+      digest: 0911c6914708c43572737d6f62c9fe6183c48f6d85a6deff4ca4a43ee04e7c57
+    - name: 3proxy
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - 3proxy-0.1.0.tgz
+      created: 2023-12-14T16:21:32.581460131+03:00
+      digest: b3877977e0e2f264fda9b2e65ab748e411aa6828b1ac8af73768a9d5677b4211
+  admin-sa:
+    - name: admin-sa
+      version: 0.1.4
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - admin-sa-0.1.4.tgz
+      created: 2024-10-16T12:10:47.109935625+03:00
+      digest: 1105efbc58fc4acb33b1fedbeb6fcecec6d08ab83de054a514bb1c8ecf34ce4b
+    - name: admin-sa
+      version: 0.1.3
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - admin-sa-0.1.3.tgz
+      created: 2024-01-22T13:02:07.15581897+03:00
+      digest: e88ca86d8b3ebb3e97e1a5f249277e42b7d34222ba9ae3c23d5bdec0f0a0dde4
+    - name: admin-sa
+      version: 0.1.2
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - admin-sa-0.1.2.tgz
+      created: 2024-01-12T13:31:24.061149627+03:00
+      digest: 3a46ff4332a93ef43fe896d28ee1ffdea2d50fc79ff7733b6c9973614e294225
+    - name: admin-sa
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - admin-sa-0.1.1.tgz
+      created: 2023-12-22T12:21:30.251029859+03:00
+      digest: 847a54541cb8f36cf1bf3bbe961ab7f62c5d6024e232012dae52d73e2bb11e15
+  alerta-web:
+    - name: alerta-web
+      home: https://github.com/hayk96/alerta-web
+      sources:
+        - https://github.com/alerta/alerta
+        - https://github.com/alerta/alerta-webui
+      version: 0.1.9
+      description: A Kubernetes Helm chart of Alerta monitoring system
+      keywords:
+        - monitoring
+        - alerting
+      maintainers:
+        - name: Hayk Davtyan
+          url: https://github.com/hayk96
+      icon: https://raw.githubusercontent.com/hayk96/alerta-web/main/logo/mstile-310x310.png
+      apiVersion: v2
+      appVersion: 9.0.3
+      urls:
+        - alerta-web-0.1.9.tgz
+      created: 2024-08-29T18:16:40.597667499+03:00
+      digest: a4b9a0f63b6a48fb0ce057074fe3f98f76c8ed27a394af4ec4377f4a56be0f1e
+  all-nss:
+    - name: all-nss
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - all-nss-0.1.0.tgz
+      created: 2023-09-25T21:44:05.84365425+03:00
+      digest: 469e70b14f4cb0713cf74bf029c26bd8d0329a7fe9e0ea2e3f994b13f3e65f65
+  bootstrap-clu:
+    - name: bootstrap-clu
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.1
+      type: application
+      urls:
+        - bootstrap-clu-0.1.1.tgz
+      created: 2025-07-22T14:27:50.117527183Z
+      digest: 68eec2245cf915959d65437dfca1fd7da9fbcfb5ef6198f2aa01df781dcf9f85
+  cicd-sa:
+    - name: cicd-sa
+      version: 0.1.9
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.9
+      urls:
+        - cicd-sa-0.1.9.tgz
+      created: 2025-05-05T13:34:31.398528027Z
+      digest: 96ddc4bb4f14a6381b9870d7270e6e11dc4f1c4957e8f82b76cf6ea348e4add1
+    - name: cicd-sa
+      version: 0.1.8
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.8
+      urls:
+        - cicd-sa-0.1.8.tgz
+      created: 2025-04-09T13:01:20Z
+      digest: 1a89ede46b2030aef7c74a4cbb2d2c0a7bc25f5ddbac5a6d4da287b70b1b6016
+    - name: cicd-sa
+      version: 0.1.8-2
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.8
+      urls:
+        - cicd-sa-0.1.8-2.tgz
+      created: 2025-04-15T07:55:15Z
+      digest: 60ecc6961f800aa13f9372880a5ab9f058ffcc4d0f5837efed6e9f864ea35545
+    - name: cicd-sa
+      version: 0.1.8-1
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.8
+      urls:
+        - cicd-sa-0.1.8-1.tgz
+      created: 2025-04-09T17:16:55Z
+      digest: a3092f02e6be3c2d88ed4e915f90bc0750f633584901f95a5d01dd801f6d4b80
+    - name: cicd-sa
+      version: 0.1.7
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.7
+      urls:
+        - cicd-sa-0.1.7.tgz
+      created: 2024-07-24T14:01:24.178145811+03:00
+      digest: 736afe84573ab12af09618cebbdb10b703daff53aa092d7e680ec137d06b1bc0
+    - name: cicd-sa
+      version: 0.1.7-1
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.7
+      urls:
+        - cicd-sa-0.1.7-1.tgz
+      created: 2024-07-24T14:09:13.786262142+03:00
+      digest: 1ac9890328647bbf7a30c0fa8d058914cf318f416244db1571eaffef2b49efa2
+    - name: cicd-sa
+      version: 0.1.6
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.6
+      urls:
+        - cicd-sa-0.1.6.tgz
+      created: 2024-07-24T13:58:22.9455437+03:00
+      digest: da4ecb4a6ac6dc8e9c31899a33dff684c206d56856728426a7f161df2ca2ec3a
+    - name: cicd-sa
+      version: 0.1.5
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.5
+      urls:
+        - cicd-sa-0.1.5.tgz
+      created: 2024-07-23T15:55:49Z
+      digest: 99bc2a81b599b548ed62d9b1c329cd9df139dc6c82d1a8748866e73c016ce748
+    - name: cicd-sa
+      version: 0.1.4
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.4
+      urls:
+        - cicd-sa-0.1.4.tgz
+      created: 2024-03-18T21:54:16.682309399+03:00
+      digest: 2c16644bdef11f567c84552ecef65824331cdc9a77c326cc3665cc27b38c0ea4
+    - name: cicd-sa
+      version: 0.1.3
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.3
+      urls:
+        - cicd-sa-0.1.3.tgz
+      created: 2024-02-13T14:50:55.670455477+03:00
+      digest: 0a7529017fa95f60de11b942ce1efaa3bf1d082ff3275577ba86016189938953
+    - name: cicd-sa
+      version: 0.1.2
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - cicd-sa-0.1.2.tgz
+      created: 2024-01-22T13:43:25.783512887+03:00
+      digest: eb0cc366ff415f1217ca23b452c4da664a0813ecb1c3753114c70fa848f98122
+    - name: cicd-sa
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - cicd-sa-0.1.1.tgz
+      created: 2023-12-01T17:38:48.441044751+03:00
+      digest: 3c8082d6bbd18dba50932a66ac7bcd3c857fcabd1f28ee4920630702785b04f8
+    - name: cicd-sa
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - cicd-sa-0.1.0.tgz
+      created: 2023-10-19T17:02:47.633565022+03:00
+      digest: b230017fc0c5e48341cd2f7f1a0ec8c6be406e717553d685d2bdcdef5a1ee2ec
+  cnpg-cluster:
+    - name: cnpg-cluster
+      home: https://cloudnative-pg.io
+      sources:
+        - https://github.com/cloudnative-pg/charts
+      version: 0.2.2
+      description: Deploys and manages a CloudNativePG cluster and its associated resources.
+      keywords:
+        - postgresql
+        - postgres
+        - database
+      maintainers:
+        - name: itay-grudev
+          email: itay+cloudnativepg-charts+github.com@grudev.com
+      icon: https://raw.githubusercontent.com/cloudnative-pg/artwork/main/cloudnativepg-logo.svg
+      apiVersion: v2
+      type: application
+      urls:
+        - cnpg-cluster-0.2.2.tgz
+      created: 2025-08-04T14:18:43.022147503Z
+      digest: f1ec8aa1db7f4f28a45c05ef9ac9f3add131a2c7977e6dd1a2904f188584226c
+    - name: cnpg-cluster
+      home: https://cloudnative-pg.io
+      sources:
+        - https://github.com/cloudnative-pg/charts
+      version: 0.2.1
+      description: Deploys and manages a CloudNativePG cluster and its associated resources.
+      keywords:
+        - postgresql
+        - postgres
+        - database
+      maintainers:
+        - name: itay-grudev
+          email: itay+cloudnativepg-charts+github.com@grudev.com
+      icon: https://raw.githubusercontent.com/cloudnative-pg/artwork/main/cloudnativepg-logo.svg
+      apiVersion: v2
+      type: application
+      urls:
+        - cnpg-cluster-0.2.1.tgz
+      created: 2025-04-11T14:17:46Z
+      digest: bb79bcfacb6ee6b3011fdbc7f9cc61cf3c411e5364f0d98892949dbd9f9472fe
+    - name: cnpg-cluster
+      home: https://cloudnative-pg.io
+      sources:
+        - https://github.com/cloudnative-pg/charts
+      version: 0.2.1-2
+      description: Deploys and manages a CloudNativePG cluster and its associated resources.
+      keywords:
+        - postgresql
+        - postgres
+        - database
+      maintainers:
+        - name: itay-grudev
+          email: itay+cloudnativepg-charts+github.com@grudev.com
+      icon: https://raw.githubusercontent.com/cloudnative-pg/artwork/main/cloudnativepg-logo.svg
+      apiVersion: v2
+      type: application
+      urls:
+        - cnpg-cluster-0.2.1-2.tgz
+      created: 2025-04-15T09:08:56Z
+      digest: 5d87c4c8b65c96543420ad2accf8c9ac10c4a6fa83a05ddd61b821ea365bddae
+  common:
+    - name: common
+      home: https://github.com/k8s-at-home/library-charts/tree/main/stable/common
+      version: 4.5.2
+      description: Function library for k8s-at-home charts
+      keywords:
+        - k8s-at-home
+        - common
+      maintainers:
+        - name: bjw-s
+          email: me@bjw-s.dev
+        - name: onedr0p
+          email: devin.kray@gmail.com
+        - name: dirtycajunrice
+          email: nick@cajun.pro
+      apiVersion: v2
+      kubeVersion: '>=1.16.0-0'
+      type: library
+      urls:
+        - common-4.5.2.tgz
+      created: 2024-04-01T16:08:59.908310069+03:00
+      digest: 37c8bc8e5ab77e9ae2c0b4cd66f945f20194d08cd59f318e9f9226f8ed51de8d
+    - name: common
+      home: https://github.com/k8s-at-home/library-charts/tree/main/stable/common
+      version: 4.3.0
+      description: Function library for k8s-at-home charts
+      keywords:
+        - k8s-at-home
+        - common
+      maintainers:
+        - name: bjw-s
+          email: me@bjw-s.dev
+        - name: onedr0p
+          email: devin.kray@gmail.com
+        - name: nicholaswilde
+          email: ncwilde43@gmail.com
+        - name: dirtycajunrice
+          email: nick@cajun.pro
+      apiVersion: v2
+      kubeVersion: '>=1.16.0-0'
+      type: library
+      urls:
+        - common-4.3.0.tgz
+      created: 2022-07-24T19:58:43.436904759+03:00
+      digest: 9fce0733c89b2a059dd7db83cff3f04a08cb176bb177777098ed49b9f8cdb442
+  confluence:
+    - name: confluence
+      home: https://atlassian.github.io/data-center-helm-charts/
+      sources:
+        - https://github.com/atlassian/data-center-helm-charts
+        - https://bitbucket.org/atlassian-docker/docker-atlassian-confluence-server/
+      version: 1.7.3
+      description: A chart for installing Confluence Data Center on Kubernetes
+      keywords:
+        - Confluence
+        - Confluence Server
+        - Confluence Data Center
+        - Confluence DC
+        - Atlassian
+      icon: https://atlassian.github.io/data-center-helm-charts/icons/confluence.svg
+      apiVersion: v2
+      appVersion: 7.19.2
+      annotations:
+        artifacthub.io/changes: |
+          - kind: fixed
+            description: Patch release to fix Artifacthub metadata
+        artifacthub.io/containsSecurityUpdates: "true"
+      kubeVersion: '>=1.19.x-0'
+      dependencies:
+        - name: common
+          version: 1.0.0
+          repository: https://atlassian.github.io/data-center-helm-charts
+      type: application
+      urls:
+        - confluence-1.7.3.tgz
+      created: 2023-08-18T16:50:19.567509763+03:00
+      digest: 1d5e95ad04406a89236268bcfae4e890904d5399301a104ad50b30594976207a
+    - name: confluence
+      home: https://atlassian.github.io/data-center-helm-charts/
+      sources:
+        - https://github.com/atlassian/data-center-helm-charts
+        - https://bitbucket.org/atlassian-docker/docker-atlassian-confluence-server/
+      version: 1.7.1
+      description: A chart for installing Confluence Data Center on Kubernetes
+      keywords:
+        - Confluence
+        - Confluence Server
+        - Confluence Data Center
+        - Confluence DC
+        - Atlassian
+      icon: https://atlassian.github.io/data-center-helm-charts/icons/confluence.svg
+      apiVersion: v2
+      appVersion: 7.19.2
+      annotations:
+        artifacthub.io/changes: |
+          - kind: fixed
+            description: Patch release to fix Artifacthub metadata
+        artifacthub.io/containsSecurityUpdates: "true"
+      kubeVersion: '>=1.19.x-0'
+      dependencies:
+        - name: common
+          version: 1.0.0
+          repository: https://atlassian.github.io/data-center-helm-charts
+      type: application
+      urls:
+        - confluence-1.7.1.tgz
+      created: 2023-01-30T17:30:36.578858834+03:00
+      digest: acf981c090befc384c04b7e73d5581d41d26affe0ff187668971ee7e6acdf1cf
+  cp-kafka-rest:
+    - name: cp-kafka-rest
+      version: 0.1.0
+      description: A Helm chart for Confluent Kafka REST Proxy on Kubernetes
+      apiVersion: v1
+      appVersion: "1.0"
+      urls:
+        - cp-kafka-rest-0.1.0.tgz
+      created: 2022-05-01T09:53:36Z
+      digest: 239482d1884d6c1a63483fd79b5da2258cba915b5079b25fa0ffe92c565e66d0
+  csi-s3:
+    - name: csi-s3
+      home: https://github.com/yandex-cloud/k8s-csi-s3
+      sources:
+        - https://github.com/yandex-cloud/k8s-csi-s3/deploy/helm
+      version: 0.41.1
+      description: Container Storage Interface (CSI) driver for S3 volumes
+      keywords:
+        - s3
+      icon: https://raw.githubusercontent.com/yandex-cloud/geesefs/master/doc/geesefs.png
+      apiVersion: v1
+      appVersion: 0.41.1
+      urls:
+        - csi-s3-0.41.1.tgz
+      created: 2024-07-25T14:45:49.947144531+03:00
+      digest: e5ae11e2c9c4741573b621613b8f96e9388b8fd31cb14b65eb4fcf48f22ae6fb
+    - name: csi-s3
+      home: https://github.com/yandex-cloud/k8s-csi-s3
+      sources:
+        - https://github.com/yandex-cloud/k8s-csi-s3/deploy/helm
+      version: 0.31.8
+      description: Container Storage Interface (CSI) driver for S3 volumes
+      keywords:
+        - s3
+      icon: https://raw.githubusercontent.com/yandex-cloud/geesefs/master/doc/geesefs.png
+      apiVersion: v1
+      appVersion: 0.31.8
+      urls:
+        - csi-s3-0.31.8.tgz
+      created: 2022-09-29T15:07:40.700346262+03:00
+      digest: 2fe828018b5236d26be319c61bda48830c7cbf46c0fded6e8ad7d50d639b6ada
+  dh-env:
+    - name: dh-env
+      version: 0.0.2
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 1.16.0
+      type: application
+      urls:
+        - dh-env-0.0.2.tgz
+      created: 2022-05-01T09:53:36Z
+      digest: e737df1fb071d0e8d9f7632746ab1777cde2553d49a19de29481fef64f7a7f1a
+    - name: dh-env
+      version: 0.0.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 1.16.0
+      type: application
+      urls:
+        - dh-env-0.0.1.tgz
+      created: 2022-05-01T09:53:36Z
+      digest: 96e9a8f1f7a9411a380b58eba381e37b203ad5613fc8272b84da485cbc4d9400
+  docker-registry:
+    - name: docker-registry
+      home: https://hub.docker.com/_/registry/
+      sources:
+        - https://github.com/docker/distribution-library-image
+      version: 2.2.2
+      description: A Helm chart for Docker Registry
+      maintainers:
+        - name: Devin Canterberry
+          email: devin@canterberry.cc
+          url: https://canterberry.cc/
+      icon: https://helm.twun.io/docker-registry.png
+      apiVersion: v1
+      appVersion: 2.8.1
+      urls:
+        - docker-registry-2.2.2.tgz
+      created: 2022-09-08T11:17:44.663589731+03:00
+      digest: 475c3a9e5459fe5905b144b42b0fb9ba10821f1560a2016a12aac63a6a2fa98b
+  dokuwiki:
+    - name: dokuwiki
+      home: https://github.com/k8s-at-home/charts/tree/master/charts/stable/dokuwiki
+      sources:
+        - https://github.com/splitbrain/dokuwiki
+        - https://github.com/linuxserver/docker-dokuwiki
+      version: 1.2.2
+      description: DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.
+      keywords:
+        - dokuwiki
+        - wiki
+      maintainers:
+        - name: psych0d0g
+          email: psych0d0g@users.noreply.github.com
+      icon: https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png
+      apiVersion: v2
+      appVersion: 20200729.0.0
+      annotations:
+        artifacthub.io/changes: |-
+          - kind: changed
+            description: Upgraded `common` chart dependency to version 4.5.2
+      kubeVersion: '>=1.16.0-0'
+      dependencies:
+        - name: common
+          version: 4.5.2
+          repository: https://chart.ddn0w.ru
+      urls:
+        - dokuwiki-1.2.2.tgz
+      created: 2024-04-05T15:02:21.393329331+03:00
+      digest: 5992ebbe9e70db673b34c141ff4d097a10350732ac8c9cd68ea430d5407d58c6
+  envoy:
+    - name: envoy
+      home: https://github.com/slamdev/helm-charts/tree/master/charts/envoy
+      version: 0.0.16
+      description: Helm chart to deploy [envoy](https://www.envoyproxy.io/).
+      maintainers:
+        - name: slamdev
+          email: valentin.fedoskin@gmail.com
+      icon: https://www.envoyproxy.io/docs/envoy/latest/_static/envoy-logo.png
+      apiVersion: v2
+      appVersion: v1.18.2
+      type: application
+      urls:
+        - envoy-0.0.16.tgz
+      created: 2022-12-02T18:48:52.222116435+03:00
+      digest: 42c1360bd4f5c4b4175c187b109e40964af6e70073f290f84f57ca340af591e6
+  esecrets:
+    - name: esecrets
+      version: 0.1.4
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.4
+      type: application
+      urls:
+        - esecrets-0.1.4.tgz
+      created: 2024-10-15T15:50:55.684919454+03:00
+      digest: 34b00e8711736031036115f8031f7e137b69405a20fb29b9ffbe6a93fc2b5155
+    - name: esecrets
+      version: 0.1.3
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.3
+      type: application
+      urls:
+        - esecrets-0.1.3.tgz
+      created: 2024-03-19T15:57:18.333877627+03:00
+      digest: 8a4c986f43a5e7ce453bcdd183cbd68152541de1696889ee33d89ea024d79332
+    - name: esecrets
+      version: 0.1.2
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.2
+      type: application
+      urls:
+        - esecrets-0.1.2.tgz
+      created: 2024-02-09T17:17:12.644644508+03:00
+      digest: b2b9c0d1eb758f6be94ec929104ef3736a07b77849ccf9209ba59a3e23cc7b23
+    - name: esecrets
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.1
+      type: application
+      urls:
+        - esecrets-0.1.1.tgz
+      created: 2023-09-28T12:49:11.394235309+03:00
+      digest: d0e0bb3de093e533c72de919fa94d60a13d0f11e97092d81906ea4448d55d85d
+    - name: esecrets
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - esecrets-0.1.0.tgz
+      created: 2022-11-25T11:37:45.002533406+03:00
+      digest: f69f8ea9fa25d4ddd02d67e73e54f9b622abe8841f8fe411510a84dfc32bfd70
+  externalauth:
+    - name: externalauth
+      version: 0.0.5
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: v0.0.5
+      type: application
+      urls:
+        - externalauth-0.0.5.tgz
+      created: 2022-05-15T23:13:39.676549214+03:00
+      digest: 94bfc0b3a33257b7d5c15b0af8736094529e1d573b823475570039f6c155ff97
+    - name: externalauth
+      version: 0.0.4
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: v0.0.4
+      type: application
+      urls:
+        - externalauth-0.0.4.tgz
+      created: 2022-05-06T20:17:55.285676347+03:00
+      digest: fdb68376cd87868af7a2ee891673c03e8622bc14ab2b891bd2bd50c9780726de
+  gogs:
+    - name: gogs
+      home: https://gogs.io/
+      version: 0.7.15
+      description: 'Gogs: Go Git Service'
+      keywords:
+        - git
+      icon: https://gogs.io/img/favicon.ico
+      apiVersion: v1
+      appVersion: 0.11.86
+      urls:
+        - gogs-0.7.15.tgz
+      created: 2022-05-01T09:53:37Z
+      digest: 5d57635d03c946858d0e2c2d7f666ebda4baa4acc2c7e8445726a0c1eb965e38
+    - name: gogs
+      home: https://gogs.io/
+      version: 0.7.14
+      description: 'DEPRECATED Gogs: Go Git Service'
+      keywords:
+        - git
+      icon: https://gogs.io/img/favicon.ico
+      apiVersion: v1
+      appVersion: 0.11.86
+      deprecated: true
+      dependencies:
+        - name: postgresql
+          version: 8.6.4
+          repository: https://charts.helm.sh/stable
+          condition: postgresql.install
+      urls:
+        - gogs-0.7.14.tgz
+      created: 2022-05-01T09:53:36Z
+      digest: 934a1ad2b8d3d327c3151e8aaf877f347cd688599b69833af8d13fdbc1d932a3
+  haproxy-sa:
+    - name: haproxy-sa
+      home: https://github.com/haproxytech/helm-charts/tree/main/kubernetes-ingress
+      sources:
+        - https://github.com/haproxytech/kubernetes-ingress
+      version: 1.40.1
+      description: A Helm chart for HAProxy Kubernetes Ingress Controller
+      keywords:
+        - ingress
+        - haproxy
+      maintainers:
+        - name: Dinko Korunic
+          email: dkorunic@haproxy.com
+      icon: https://raw.githubusercontent.com/haproxytech/helm-charts/main/kubernetes-ingress/chart-icon.png
+      apiVersion: v2
+      appVersion: 3.0.1
+      annotations:
+        artifacthub.io/changes: |
+          - Use Ingress Controller 3.0.1 version for base image
+          - Limit template spec name to 15 characters (#247)
+      kubeVersion: '>=1.23.0-0'
+      type: application
+      urls:
+        - haproxy-sa-1.40.1.tgz
+      created: 2024-08-14T14:57:18.41994399+03:00
+      digest: d6e344f8fba67ea8248db6e596db4cbaed1d3e6db0b9eace45f084b369f7da51
+  harbor:
+    - name: harbor
+      home: https://goharbor.io
+      sources:
+        - https://github.com/goharbor/harbor
+        - https://github.com/goharbor/harbor-helm
+      version: 1.17.1
+      description: An open source trusted cloud native registry that stores, signs, and scans content
+      keywords:
+        - docker
+        - registry
+        - harbor
+      maintainers:
+        - name: Yan Wang
+          email: yan-yw.wang@broadcom.com
+        - name: Wenkai Yin
+          email: wenkai.yin@broadcom.com
+        - name: Miner Yang
+          email: miner.yang@broadcom.com
+        - name: Shengwen Yu
+          email: shengwen.yu@broadcom.com
+      icon: https://raw.githubusercontent.com/goharbor/website/main/static/img/logos/harbor-icon-color.png
+      apiVersion: v1
+      appVersion: 2.13.1
+      urls:
+        - harbor-1.17.1.tgz
+      created: 2025-06-20T13:33:57.893016957Z
+      digest: 3daf3b0271f604ce92bef3dec5fbc5cf5c8d94eb4b22f5cc4fb4a0a1b2db6c72
+    - name: harbor
+      home: https://goharbor.io
+      sources:
+        - https://github.com/goharbor/harbor
+        - https://github.com/goharbor/harbor-helm
+      version: 1.12.2
+      description: An open source trusted cloud native registry that stores, signs, and scans content
+      keywords:
+        - docker
+        - registry
+        - harbor
+      maintainers:
+        - name: Wenkai Yin
+          email: yinw@vmware.com
+        - name: Weiwei He
+          email: hweiwei@vmware.com
+        - name: Shengwen Yu
+          email: yshengwen@vmware.com
+      icon: https://raw.githubusercontent.com/goharbor/website/master/static/img/logos/harbor-icon-color.png
+      apiVersion: v1
+      appVersion: 2.8.1
+      urls:
+        - harbor-1.12.2.tgz
+      created: 2024-01-30T13:54:25.66489099+03:00
+      digest: 5a81c2783a469b77fd15c6dfddda99fdefc087f87f5bef91ba3fad9f7f95282b
+    - name: harbor
+      home: https://goharbor.io
+      sources:
+        - https://github.com/goharbor/harbor
+        - https://github.com/goharbor/harbor-helm
+      version: 1.12.1
+      description: An open source trusted cloud native registry that stores, signs, and scans content
+      keywords:
+        - docker
+        - registry
+        - harbor
+      maintainers:
+        - name: Wenkai Yin
+          email: yinw@vmware.com
+        - name: Weiwei He
+          email: hweiwei@vmware.com
+        - name: Shengwen Yu
+          email: yshengwen@vmware.com
+      icon: https://raw.githubusercontent.com/goharbor/website/master/static/img/logos/harbor-icon-color.png
+      apiVersion: v1
+      appVersion: 2.8.1
+      urls:
+        - harbor-1.12.1.tgz
+      created: 2023-06-02T23:11:01.751882319+03:00
+      digest: 3363da635d2fddd9af294f790da52742c92f215dbb77dc9a5c3b652aefb2ffe0
+  http-probe:
+    - name: http-probe
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - http-probe-0.1.1.tgz
+      created: 2024-01-09T13:27:43.17765861+03:00
+      digest: 2ec9dc74dc80574b747c1c90f4dc07f10d4c19a4f8a4ca1abdc2dfd9496cd543
+    - name: http-probe
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - http-probe-0.1.0.tgz
+      created: 2022-11-25T11:37:21.334867552+03:00
+      digest: 2dca5ac8ab33e24e31586fafb7646be5488b226a75b1044a0dc240c2c11c3ccc
+  jira:
+    - name: jira
+      home: https://atlassian.github.io/data-center-helm-charts/
+      sources:
+        - https://github.com/atlassian/data-center-helm-charts
+        - https://bitbucket.org/atlassian-docker/docker-atlassian-jira/
+      version: 1.7.3
+      description: A chart for installing Jira Data Center on Kubernetes
+      keywords:
+        - Jira
+        - Jira Software
+        - Jira Server
+        - Jira Data Center
+        - Jira DC
+        - Atlassian
+      icon: https://atlassian.github.io/data-center-helm-charts/icons/jira-software.svg
+      apiVersion: v2
+      appVersion: 8.20.13
+      annotations:
+        artifacthub.io/changes: |
+          - kind: fixed
+            description: Patch release to fix Artifacthub metadata
+        artifacthub.io/containsSecurityUpdates: "false"
+      kubeVersion: '>=1.19.x-0'
+      dependencies:
+        - name: common
+          version: 1.0.0
+          repository: https://atlassian.github.io/data-center-helm-charts
+      type: application
+      urls:
+        - jira-1.7.3.tgz
+      created: 2023-09-11T14:49:13.985203321+03:00
+      digest: 1be3ed52a0700366e68e5812849f0c2a025a0f9467d542fdac2e5ef88e729598
+    - name: jira
+      home: https://atlassian.github.io/data-center-helm-charts/
+      sources:
+        - https://github.com/atlassian/data-center-helm-charts
+        - https://bitbucket.org/atlassian-docker/docker-atlassian-jira/
+      version: 1.7.3-2
+      description: A chart for installing Jira Data Center on Kubernetes
+      keywords:
+        - Jira
+        - Jira Software
+        - Jira Server
+        - Jira Data Center
+        - Jira DC
+        - Atlassian
+      icon: https://atlassian.github.io/data-center-helm-charts/icons/jira-software.svg
+      apiVersion: v2
+      appVersion: 8.20.13
+      annotations:
+        artifacthub.io/changes: |
+          - kind: fixed
+            description: Patch release to fix Artifacthub metadata
+        artifacthub.io/containsSecurityUpdates: "false"
+      kubeVersion: '>=1.19.x-0'
+      dependencies:
+        - name: common
+          version: 1.0.0
+          repository: https://atlassian.github.io/data-center-helm-charts
+      type: application
+      urls:
+        - jira-1.7.3-2.tgz
+      created: 2024-02-27T18:12:18.39228791+03:00
+      digest: de43f46a3c01a9bca81699fd313ce946c354f7eeb10039f9cd9f07cf267640b7
+    - name: jira
+      home: https://atlassian.github.io/data-center-helm-charts/
+      sources:
+        - https://github.com/atlassian/data-center-helm-charts
+        - https://bitbucket.org/atlassian-docker/docker-atlassian-jira/
+      version: 1.7.2
+      description: A chart for installing Jira Data Center on Kubernetes
+      keywords:
+        - Jira
+        - Jira Software
+        - Jira Server
+        - Jira Data Center
+        - Jira DC
+        - Atlassian
+      icon: https://atlassian.github.io/data-center-helm-charts/icons/jira-software.svg
+      apiVersion: v2
+      appVersion: 8.20.13
+      annotations:
+        artifacthub.io/changes: |
+          - kind: fixed
+            description: Patch release to fix Artifacthub metadata
+        artifacthub.io/containsSecurityUpdates: "false"
+      kubeVersion: '>=1.19.x-0'
+      dependencies:
+        - name: common
+          version: 1.0.0
+          repository: https://atlassian.github.io/data-center-helm-charts
+      type: application
+      urls:
+        - jira-1.7.2.tgz
+      created: 2023-08-06T13:57:45.043653475+03:00
+      digest: 3e11d3ec90e38e470aebd6cb0dc9b1f72a81999ea893ac7220b43eb2d4bce75d
+    - name: jira
+      home: https://atlassian.github.io/data-center-helm-charts/
+      sources:
+        - https://github.com/atlassian/data-center-helm-charts
+        - https://bitbucket.org/atlassian-docker/docker-atlassian-jira/
+      version: 1.7.1
+      description: A chart for installing Jira Data Center on Kubernetes
+      keywords:
+        - Jira
+        - Jira Software
+        - Jira Server
+        - Jira Data Center
+        - Jira DC
+        - Atlassian
+      icon: https://atlassian.github.io/data-center-helm-charts/icons/jira-software.svg
+      apiVersion: v2
+      appVersion: 8.20.13
+      annotations:
+        artifacthub.io/changes: |
+          - kind: fixed
+            description: Patch release to fix Artifacthub metadata
+        artifacthub.io/containsSecurityUpdates: "false"
+      kubeVersion: '>=1.19.x-0'
+      dependencies:
+        - name: common
+          version: 1.0.0
+          repository: https://atlassian.github.io/data-center-helm-charts
+      type: application
+      urls:
+        - jira-1.7.1.tgz
+      created: 2023-01-24T11:15:16.980491225+03:00
+      digest: 65e17a6e60a9e901042cb6d8d12761ae27eca564c3e0a54285d28eb599502879
+  json-server:
+    - name: json-server
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.1
+      type: application
+      urls:
+        - json-server-0.1.1.tgz
+      created: 2023-10-12T10:19:51.102052753+03:00
+      digest: 621cfb2c422204327e6616f7518881aa1f2f39d3c88112ff284f899a9f294fc5
+    - name: json-server
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - json-server-0.1.0.tgz
+      created: 2023-08-15T14:59:56.856452329+03:00
+      digest: 483ac5ecaa33d0786449fae93dc5b798c23c2f47eebc5442c0fd2092cbffd331
+  k8s-restart:
+    - name: k8s-restart
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - k8s-restart-0.1.0.tgz
+      created: 2024-07-05T14:15:28.97122891+03:00
+      digest: 8665312b3e4a876c658deddedebbff2d76c073849a6bf123f164f27bf5c13d99
+  kafka:
+    - name: kafka
+      home: https://bitnami.com
+      sources:
+        - https://github.com/bitnami/charts/tree/main/bitnami/kafka
+      version: 32.1.3
+      description: Apache Kafka is a distributed streaming platform designed to build real-time pipelines and can be used as a message broker or as a replacement for a log aggregation solution for big data applications.
+      keywords:
+        - kafka
+        - streaming
+        - producer
+        - consumer
+      maintainers:
+        - name: Broadcom, Inc. All Rights Reserved.
+          url: https://github.com/bitnami/charts
+      icon: https://dyltqmyl993wv.cloudfront.net/assets/stacks/kafka/img/kafka-stack-220x234.png
+      apiVersion: v2
+      appVersion: 4.0.0
+      annotations:
+        category: Infrastructure
+        images: |
+          - name: jmx-exporter
+            image: docker.io/bitnami/jmx-exporter:1.2.0-debian-12-r1
+          - name: kafka
+            image: docker.io/bitnami/kafka:4.0.0-debian-12-r0
+          - name: kubectl
+            image: docker.io/bitnami/kubectl:1.32.3-debian-12-r1
+          - name: os-shell
+            image: docker.io/bitnami/os-shell:12-debian-12-r40
+        licenses: Apache-2.0
+        tanzuCategory: service
+      dependencies:
+        - name: common
+          version: 2.x.x
+          repository: oci://registry-1.docker.io/bitnamicharts
+          tags:
+            - bitnami-common
+      urls:
+        - kafka-32.1.3.tgz
+      created: 2025-04-11T09:29:05Z
+      digest: 129118b1dae1cd96af736c00e8170d2ae8ee3b144f2cb407df5ba3b46aeb09d7
+    - name: kafka
+      home: https://bitnami.com
+      sources:
+        - https://github.com/bitnami/charts/tree/main/bitnami/kafka
+      version: 31.5.0
+      description: Apache Kafka is a distributed streaming platform designed to build real-time pipelines and can be used as a message broker or as a replacement for a log aggregation solution for big data applications.
+      keywords:
+        - kafka
+        - zookeeper
+        - streaming
+        - producer
+        - consumer
+      maintainers:
+        - name: Broadcom, Inc. All Rights Reserved.
+          url: https://github.com/bitnami/charts
+      icon: https://dyltqmyl993wv.cloudfront.net/assets/stacks/kafka/img/kafka-stack-220x234.png
+      apiVersion: v2
+      appVersion: 3.9.0
+      annotations:
+        category: Infrastructure
+        images: |
+          - name: jmx-exporter
+            image: docker.io/bitnami/jmx-exporter:1.1.0-debian-12-r7
+          - name: kafka
+            image: docker.io/bitnami/kafka:3.9.0-debian-12-r12
+          - name: kubectl
+            image: docker.io/bitnami/kubectl:1.32.2-debian-12-r3
+          - name: os-shell
+            image: docker.io/bitnami/os-shell:12-debian-12-r39
+        licenses: Apache-2.0
+      dependencies:
+        - name: zookeeper
+          version: 13.x.x
+          repository: oci://registry-1.docker.io/bitnamicharts
+          condition: zookeeper.enabled
+        - name: common
+          version: 2.x.x
+          repository: oci://registry-1.docker.io/bitnamicharts
+          tags:
+            - bitnami-common
+      urls:
+        - kafka-31.5.0.tgz
+      created: 2025-04-11T11:21:52Z
+      digest: b22d7ec0deee73160c8eb1ef2a702435d49aab88104137446ab827641fd6ede2
+  kubegraf:
+    - name: kubegraf
+      version: 0.1.0
+      description: KeubeGraf
+      apiVersion: v2
+      appVersion: 1.16.0
+      type: application
+      urls:
+        - kubegraf-0.1.0.tgz
+      created: 2022-05-01T09:53:37Z
+      digest: e3a155edeedc0db1d75351b37e1d089d6be0eda88dc783e1b04fb07f80d1b618
+  local-path-provisioner:
+    - name: local-path-provisioner
+      home: https://github.com/rancher/local-path-provisioner
+      sources:
+        - https://github.com/rancher/local-path-provisioner.git
+      version: 0.0.24
+      description: Use HostPath for persistent local storage with Kubernetes
+      keywords:
+        - storage
+        - hostpath
+      apiVersion: v1
+      appVersion: v0.0.24
+      kubeVersion: '>=1.12.0-r0'
+      urls:
+        - local-path-provisioner-0.0.24.tgz
+      created: 2023-01-10T13:27:40.198321621+03:00
+      digest: 2370a7cbc5588cf1667ba4fd0bd6a6604f9e4f6823a3140256fdc787bcda589b
+    - name: local-path-provisioner
+      home: https://github.com/rancher/local-path-provisioner
+      sources:
+        - https://github.com/rancher/local-path-provisioner.git
+      version: 0.0.24-dev
+      description: Use HostPath for persistent local storage with Kubernetes
+      keywords:
+        - storage
+        - hostpath
+      apiVersion: v1
+      appVersion: v0.0.24-dev
+      kubeVersion: '>=1.12.0-r0'
+      urls:
+        - local-path-provisioner-0.0.24-dev.tgz
+      created: 2023-01-10T12:52:09.613020958+03:00
+      digest: 6f5b4f7aa394b647dd00c1f6a87b8c9e1e057e3b011fdd9a53b67b56bf2dc998
+  mainte:
+    - name: mainte
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - mainte-0.1.0.tgz
+      created: 2024-04-09T10:08:09.225409879+03:00
+      digest: 09e51ff765909188c4a75c7abf7c3b8257aaa95836751dd92f6f1e3fcd0be3c0
+  mongodb:
+    - name: mongodb
+      home: https://bitnami.com
+      sources:
+        - https://github.com/bitnami/charts/tree/main/bitnami/mongodb
+      version: 16.5.12
+      description: MongoDB(R) is a relational open source NoSQL database. Easy to use, it stores data in JSON-like documents. Automated scalability and high-performance. Ideal for developing cloud native applications.
+      keywords:
+        - mongodb
+        - database
+        - nosql
+        - cluster
+        - replicaset
+        - replication
+      maintainers:
+        - name: Broadcom, Inc. All Rights Reserved.
+          url: https://github.com/bitnami/charts
+      icon: https://dyltqmyl993wv.cloudfront.net/assets/stacks/mongodb/img/mongodb-stack-220x234.png
+      apiVersion: v2
+      appVersion: 8.0.9
+      annotations:
+        category: Database
+        images: |
+          - name: kubectl
+            image: docker.io/bitnami/kubectl:1.33.1-debian-12-r2
+          - name: mongodb
+            image: docker.io/bitnami/mongodb:8.0.9-debian-12-r3
+          - name: mongodb-exporter
+            image: docker.io/bitnami/mongodb-exporter:0.44.0-debian-12-r6
+          - name: nginx
+            image: docker.io/bitnami/nginx:1.28.0-debian-12-r2
+          - name: os-shell
+            image: docker.io/bitnami/os-shell:12-debian-12-r45
+        licenses: Apache-2.0
+        tanzuCategory: service
+      dependencies:
+        - name: common
+          version: 2.x.x
+          repository: oci://registry-1.docker.io/bitnamicharts
+          tags:
+            - bitnami-common
+      urls:
+        - mongodb-16.5.12.tgz
+      created: 2025-05-30T11:43:36.493980645Z
+      digest: 098482ef2602d5a213da2101f81f474fd33942f540808834f97fdb3efeebcd30
+  mongodb-lb:
+    - name: mongodb-lb
+      version: 0.1.3
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 2.8.0
+      type: application
+      urls:
+        - mongodb-lb-0.1.3.tgz
+      created: 2023-12-15T14:28:10.691828214+03:00
+      digest: dd7dce7585f521344fbb1cbd2e5892097b54eb7032f4b58c99ab69d6c91fe2cc
+  mysql-innodbcluster:
+    - name: mysql-innodbcluster
+      version: 2.2.0-3
+      description: MySQL InnoDB Cluster Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes
+      icon: https://www.mysql.com/common/logos/logo-mysql-170x115.png
+      apiVersion: v2
+      appVersion: 9.0.0
+      type: application
+      urls:
+        - mysql-innodbcluster-2.2.0-3.tgz
+      created: 2024-10-21T16:26:54.470747762+03:00
+      digest: ed14a7b7201143d6194070e30290c26920f0db7ebfca42740e6d380029ded8c5
+    - name: mysql-innodbcluster
+      version: 2.2.0-2
+      description: MySQL InnoDB Cluster Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes
+      icon: https://www.mysql.com/common/logos/logo-mysql-170x115.png
+      apiVersion: v2
+      appVersion: 9.0.0
+      type: application
+      urls:
+        - mysql-innodbcluster-2.2.0-2.tgz
+      created: 2024-10-21T16:23:39.357278069+03:00
+      digest: d0fa19ee87cf85f58d3b3ceaba7f99277d724cb4af0e834db32d3a62b25f3ab1
+    - name: mysql-innodbcluster
+      version: 2.2.0-1
+      description: MySQL InnoDB Cluster Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes
+      icon: https://www.mysql.com/common/logos/logo-mysql-170x115.png
+      apiVersion: v2
+      appVersion: 9.0.0
+      type: application
+      urls:
+        - mysql-innodbcluster-2.2.0-1.tgz
+      created: 2024-10-21T16:04:48.380157837+03:00
+      digest: 37f2adf5c7dc89625c83308e7e2bcbd0f938e87a807dc2c967d3fa2b3c587a73
+    - name: mysql-innodbcluster
+      version: 2.0.7-1
+      description: MySQL InnoDB Cluster Helm Chart for deploying MySQL InnoDB Cluster in Kubernetes
+      icon: https://labs.mysql.com/common/themes/sakila/favicon.ico
+      apiVersion: v2
+      appVersion: 8.0.31
+      type: application
+      urls:
+        - mysql-innodbcluster-2.0.7-1.tgz
+      created: 2024-07-24T13:37:29.488149938+03:00
+      digest: b518904f60cbd54f0c77624d77b74b306c810872a118b03d36e0d4ee2da4d500
+  mysql-lb:
+    - name: mysql-lb
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 2.8.0
+      type: application
+      urls:
+        - mysql-lb-0.1.1.tgz
+      created: 2024-04-23T12:11:37.691236373+03:00
+      digest: 65acc69fe563d90a4dd046f3d9927cd0a89eb935612477c8809feb4ba0c1aa2f
+  n8n:
+    - name: n8n
+      home: https://github.com/8gears/n8n-helm-chart
+      sources:
+        - https://github.com/n8n-io/n8n
+        - https://n8n.io/
+      version: 0.10.0
+      description: A Kubernetes Helm chart for n8n a free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+      keywords:
+        - Workflow Automation
+        - Workflow
+        - iPaaS
+        - integration-framework
+        - low-code-plattform
+        - low-code
+      maintainers:
+        - name: Vadim Bauer
+      icon: https://avatars1.githubusercontent.com/u/45487711?s=200&v=4
+      apiVersion: v2
+      appVersion: 0.217.1
+      annotations:
+        artifacthub.io/changes: "- kind: added\n  description: \"add incressClassName definition to ingress PR#31 by swarnat\"\n  links:\n    - name: GitHub PR\n      url: https://github.com/8gears/n8n-helm-chart/pull/31\n- kind: added\n  description: \"Add lifecycle configuration for main deployment (#30) by tomaszkiewicz\"\n  links:\n    - name: GitHub PR\n      url: https://github.com/8gears/n8n-helm-chart/pull/30    \n- kind: changed\n  description: \"Updated App Version to 0.210.0\"\n- kind: added\n  description: \"Support for dedicated Workers and Webhooks Instances by Stefan Warnat aka swarnat\"\n  links:\n    - name: GitHub PR\n      url: https://github.com/8gears/n8n-helm-chart/pull/24\n    - name: \"Stefan Warnat aka @swarnat\"\n      url: https://github.com/swarnat\n"
+      dependencies:
+        - name: redis
+          version: 17.2.0
+          repository: https://charts.bitnami.com/bitnami
+          condition: redis.enabled
+      type: application
+      urls:
+        - n8n-0.10.0.tgz
+      created: 2023-03-09T15:00:51.7972937+03:00
+      digest: ef9fc45f05f71c530e73422ccb054c5ceaed45ebd1bdc40dbd1da59383f6ba92
+    - name: n8n
+      home: https://github.com/8gears/n8n-helm-chart
+      sources:
+        - https://github.com/n8n-io/n8n
+        - https://n8n.io/
+      version: 0.10.0-2
+      description: A Kubernetes Helm chart for n8n a free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+      keywords:
+        - Workflow Automation
+        - Workflow
+        - iPaaS
+        - integration-framework
+        - low-code-plattform
+        - low-code
+      maintainers:
+        - name: Vadim Bauer
+      icon: https://avatars1.githubusercontent.com/u/45487711?s=200&v=4
+      apiVersion: v2
+      appVersion: 0.217.1
+      annotations:
+        artifacthub.io/changes: "- kind: added\n  description: \"add incressClassName definition to ingress PR#31 by swarnat\"\n  links:\n    - name: GitHub PR\n      url: https://github.com/8gears/n8n-helm-chart/pull/31\n- kind: added\n  description: \"Add lifecycle configuration for main deployment (#30) by tomaszkiewicz\"\n  links:\n    - name: GitHub PR\n      url: https://github.com/8gears/n8n-helm-chart/pull/30    \n- kind: changed\n  description: \"Updated App Version to 0.210.0\"\n- kind: added\n  description: \"Support for dedicated Workers and Webhooks Instances by Stefan Warnat aka swarnat\"\n  links:\n    - name: GitHub PR\n      url: https://github.com/8gears/n8n-helm-chart/pull/24\n    - name: \"Stefan Warnat aka @swarnat\"\n      url: https://github.com/swarnat\n"
+      dependencies:
+        - name: redis
+          version: 17.2.0
+          repository: https://charts.bitnami.com/bitnami
+          condition: redis.enabled
+      type: application
+      urls:
+        - n8n-0.10.0-2.tgz
+      created: 2023-03-24T11:15:44.796801822+03:00
+      digest: acd77b48874cca09b5d96fc18497f5054bf9c04334982b5e12d26953a7209381
+  nginx-lb:
+    - name: nginx-lb
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.1
+      urls:
+        - nginx-lb-0.1.1.tgz
+      created: 2024-03-14T13:32:34.208095071+03:00
+      digest: af3311f256f150b17d6522778cf79c4b1b29612c2e5d11b2062dd9617ef68767
+    - name: nginx-lb
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - nginx-lb-0.1.0.tgz
+      created: 2023-03-14T18:19:59.925270863+03:00
+      digest: 188986a382845c4d5048413fc7878b97a08e02443814ef6aa62bfc0b5e015869
+  oauth2-proxy:
+    - name: oauth2-proxy
+      home: https://github.com/k8s-at-home/charts/tree/master/charts/stable/oauth2-proxy
+      sources:
+        - https://github.com/oauth2-proxy/oauth2-proxy
+      version: 5.0.7
+      description: A reverse proxy that provides authentication with Google, Github or other providers
+      keywords:
+        - kubernetes
+        - oauth
+        - oauth2
+        - authentication
+        - google
+        - github
+      icon: https://avatars.githubusercontent.com/u/62798169?s=200&v=4
+      apiVersion: v1
+      appVersion: 7.1.3
+      deprecated: true
+      kubeVersion: '>=1.9.0-0'
+      urls:
+        - oauth2-proxy-5.0.7.tgz
+      created: 2023-09-05T19:07:00.25544435+03:00
+      digest: a1a59d97b194686775b92cca3d7934c2a962166a09e39087333241637fae623a
+  pgadmin4:
+    - name: pgadmin4
+      home: https://www.pgadmin.org/
+      sources:
+        - https://github.com/rowanruseler/helm-charts
+      version: 1.47.0
+      description: pgAdmin4 is a web based administration tool for PostgreSQL database
+      keywords:
+        - pgadmin
+        - postgres
+        - database
+        - sql
+      maintainers:
+        - name: rowanruseler
+          email: rowanruseler@gmail.com
+      icon: https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png
+      apiVersion: v2
+      appVersion: "9.4"
+      urls:
+        - pgadmin4-1.47.0.tgz
+      created: 2025-06-19T07:56:55.612800547Z
+      digest: 8396eab0de8f4a06d7502420705b3ee166a8caf5a44bcbf65ffccad9b906584d
+  prometheus-whois-exporter:
+    - name: prometheus-whois-exporter
+      home: https://github.com/caarlos0/domain_exporter
+      sources:
+        - https://github.com/caarlos0/domain_exporter
+      version: 0.1.0
+      description: Prometheus Whois Exporter
+      keywords:
+        - prometheus
+        - domain_exporter
+        - monitoring
+      apiVersion: v2
+      appVersion: 1.18.0
+      type: application
+      urls:
+        - prometheus-whois-exporter-0.1.0.tgz
+      created: 2022-11-25T13:14:29.200486772+03:00
+      digest: 743762ad59e0f4e9e4c58ff59992ea8cafafe90d3113314e1a070f5c36f030ae
+  rancher:
+    - name: rancher
+      home: https://rancher.com
+      sources:
+        - https://github.com/rancher/rancher
+      version: 2.11.2
+      description: Install Rancher Server to manage Kubernetes clusters across providers.
+      keywords:
+        - rancher
+      maintainers:
+        - name: Rancher Labs
+          email: charts@rancher.com
+      icon: https://raw.githubusercontent.com/rancher/ui/master/public/assets/images/logos/welcome-cow.svg
+      apiVersion: v2
+      appVersion: v2.11.2
+      kubeVersion: < 1.33.0-0
+      urls:
+        - rancher-2.11.2.tgz
+      created: 2025-06-11T11:32:02.69357707Z
+      digest: 68ec8c3965508129c1d9ae0e7e4f113f97939c2d4db689a2efceee1680998a01
+  redis:
+    - name: redis
+      home: https://bitnami.com
+      sources:
+        - https://github.com/bitnami/charts/tree/main/bitnami/redis
+      version: 20.11.5
+      description: Redis(R) is an open source, advanced key-value store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets and sorted sets.
+      keywords:
+        - redis
+        - keyvalue
+        - database
+      maintainers:
+        - name: Broadcom, Inc. All Rights Reserved.
+          url: https://github.com/bitnami/charts
+      icon: https://dyltqmyl993wv.cloudfront.net/assets/stacks/redis/img/redis-stack-220x234.png
+      apiVersion: v2
+      appVersion: 7.4.2
+      annotations:
+        category: Database
+        images: |
+          - name: kubectl
+            image: docker.io/bitnami/kubectl:1.32.3-debian-12-r1
+          - name: os-shell
+            image: docker.io/bitnami/os-shell:12-debian-12-r40
+          - name: redis
+            image: docker.io/bitnami/redis:7.4.2-debian-12-r6
+          - name: redis-exporter
+            image: docker.io/bitnami/redis-exporter:1.69.0-debian-12-r1
+          - name: redis-sentinel
+            image: docker.io/bitnami/redis-sentinel:7.4.2-debian-12-r6
+        licenses: Apache-2.0
+        tanzuCategory: service
+      dependencies:
+        - name: common
+          version: 2.x.x
+          repository: oci://registry-1.docker.io/bitnamicharts
+          tags:
+            - bitnami-common
+      urls:
+        - redis-20.11.5.tgz
+      created: 2025-04-09T14:38:54Z
+      digest: 943243a130437d4fb89b56f502ecd1c1f83db1b79c4f88d887a61a6b8f7d26b7
+    - name: redis
+      home: https://github.com/bitnami/charts/tree/main/bitnami/redis
+      sources:
+        - https://github.com/bitnami/containers/tree/main/bitnami/redis
+      version: 17.6.0
+      description: Redis(R) is an open source, advanced key-value store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets and sorted sets.
+      keywords:
+        - redis
+        - keyvalue
+        - database
+      maintainers:
+        - name: Bitnami
+          url: https://github.com/bitnami/charts
+      icon: https://bitnami.com/assets/stacks/redis/img/redis-stack-220x234.png
+      apiVersion: v2
+      appVersion: 7.0.8
+      annotations:
+        category: Database
+        licenses: Apache-2.0
+      dependencies:
+        - name: common
+          version: 2.x.x
+          repository: https://charts.bitnami.com/bitnami
+          tags:
+            - bitnami-common
+      urls:
+        - redis-17.6.0.tgz
+      created: 2025-04-17T07:56:23Z
+      digest: bf7b90dfaa4612571a6a4cab408c675af2554eaa08fcceac3367aa0cb0c99786
+  redis-lb:
+    - name: redis-lb
+      version: 0.1.6
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 3.1.6
+      type: application
+      urls:
+        - redis-lb-0.1.6.tgz
+      created: 2025-06-05T14:02:25.339478099Z
+      digest: bff0afe1d1943ade6c904136f610d8e7a43188f4865fe2f10a4f6e6993648261
+    - name: redis-lb
+      version: 0.1.5
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 3.1.6
+      type: application
+      urls:
+        - redis-lb-0.1.5.tgz
+      created: 2025-04-04T08:50:16Z
+      digest: e552f6fa6f88ef92115fdc41c1688586e3d4b8261ee02420c3786dabe8ff636f
+    - name: redis-lb
+      version: 0.1.4
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 3.0.3
+      type: application
+      urls:
+        - redis-lb-0.1.4.tgz
+      created: 2024-08-20T20:46:25.459026506+03:00
+      digest: 1387a2c142baa3df4611ec15974b9e51cedbbcbcf29d07691ef40db80e94eeaa
+    - name: redis-lb
+      version: 0.1.3
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 2.8.0
+      type: application
+      urls:
+        - redis-lb-0.1.3.tgz
+      created: 2023-09-14T17:32:04.545165222+03:00
+      digest: 71d5433a251d58d77609fe7bc39be22ba533b87283aab4aab3a8adc9fcc3180c
+    - name: redis-lb
+      version: 0.1.2
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 2.8.0
+      type: application
+      urls:
+        - redis-lb-0.1.2.tgz
+      created: 2023-09-07T13:22:38.427150924+03:00
+      digest: 98cb7e1cc550165f07d1efe814eddc00c372aae9605ad072dab8de8ed77dfd3e
+    - name: redis-lb
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 2.8.0
+      type: application
+      urls:
+        - redis-lb-0.1.1.tgz
+      created: 2023-08-24T13:08:58.260980417+03:00
+      digest: 252dc4dd34f398cc56c4589cd32b97d61797d7397851b4794114bcc316f8f685
+    - name: redis-lb
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 2.8.0
+      type: application
+      urls:
+        - redis-lb-0.1.0.tgz
+      created: 2023-08-08T12:59:01.21448604+03:00
+      digest: 93de53098df13365476299c7acbcb8d675997f5f70b0ed7c382f3f8be64dd84e
+  samba:
+    - name: samba
+      home: https://github.com/k8s-at-home/charts/tree/master/charts/stable/samba
+      sources:
+        - https://github.com/dperson/samba
+      version: 5.1.0
+      description: A simple in-cluster Samba server
+      keywords:
+        - samba
+      maintainers:
+        - name: billimek
+          email: jeff@billimek.com
+      icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Samba_logo_2010.svg/500px-Samba_logo_2010.svg.png
+      apiVersion: v2
+      appVersion: latest
+      kubeVersion: '>=1.16.0-0'
+      dependencies:
+        - name: common
+          version: 4.3.0
+          repository: https://chart.ddnw.ml
+      urls:
+        - samba-5.1.0.tgz
+      created: 2022-07-25T12:53:45.392905363+03:00
+      digest: d0e95757c5ee063c777a00e1d498a99ca518593723a42c359d105083abc4aec1
+  simple-app:
+    - name: simple-app
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - simple-app-0.1.0.tgz
+      created: 2024-03-06T17:09:22.91569153+03:00
+      digest: 8f1ba263aa4574c6811cf3427992bfc7aaa8f38b40a4293ed38b141204027b75
+  static-exporter:
+    - name: static-exporter
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v1
+      appVersion: 0.1.0
+      urls:
+        - static-exporter-0.1.0.tgz
+      created: 2024-01-25T13:50:05.121317582+03:00
+      digest: 6e487018a3ffc468b72b4cee2cb00a7746bf584799f4ed39c04f0943ecd5652c
+  step-certificates:
+    - name: step-certificates
+      home: https://smallstep.com
+      sources:
+        - https://github.com/smallstep/certificates
+      version: 1.22.1
+      description: An online certificate authority and related tools for secure automated certificate management, so you can use TLS everywhere.
+      keywords:
+        - acme
+        - authority
+        - ca
+        - certificate
+        - certificates
+        - certificate-authority
+        - kubernetes
+        - pki
+        - security
+        - security-tools
+        - smallstep
+        - ssh
+        - step
+        - step-ca
+        - tls
+        - x509
+      maintainers:
+        - name: Mariano Cano
+          email: mariano@smallstep.com
+      icon: https://raw.githubusercontent.com/smallstep/certificates/master/icon.png
+      apiVersion: v1
+      appVersion: 0.22.1
+      urls:
+        - step-certificates-1.22.1.tgz
+      created: 2022-11-04T01:56:23.714080401+03:00
+      digest: bea75917f60cc64deaf1157a5a64cdb548cbb5080d1f545c5a6b3e354b4528c3
+    - name: step-certificates
+      home: https://smallstep.com
+      sources:
+        - https://github.com/smallstep/certificates
+      version: 1.22.1-2
+      description: An online certificate authority and related tools for secure automated certificate management, so you can use TLS everywhere.
+      keywords:
+        - acme
+        - authority
+        - ca
+        - certificate
+        - certificates
+        - certificate-authority
+        - kubernetes
+        - pki
+        - security
+        - security-tools
+        - smallstep
+        - ssh
+        - step
+        - step-ca
+        - tls
+        - x509
+      maintainers:
+        - name: Mariano Cano
+          email: mariano@smallstep.com
+      icon: https://raw.githubusercontent.com/smallstep/certificates/master/icon.png
+      apiVersion: v1
+      appVersion: 0.22.1
+      urls:
+        - step-certificates-1.22.1-2.tgz
+      created: 2023-03-23T12:54:53.47997064+03:00
+      digest: ae012838e99a4b39fa1c610a7d6cbc88406457bcfa8f8fc4a7005e37dfab792d
+  stolon:
+    - name: stolon
+      home: https://github.com/sorintlab/stolon
+      sources:
+        - https://github.com/sorintlab/stolon
+        - https://github.com/lwolf/stolon-chart
+      version: 1.7.2
+      description: Stolon - PostgreSQL cloud native High Availability.
+      maintainers:
+        - name: rtluckie
+          email: rluckie@cisco.com
+        - name: lwolf
+          email: ipaq.lw@gmail.com
+      icon: https://i.imgur.com/tIW8sAW.png
+      apiVersion: v1
+      appVersion: 0.17.1
+      urls:
+        - stolon-1.7.2.tgz
+      created: 2024-08-27T14:11:51.838670597+03:00
+      digest: c711b46efe8de69ab96b3d2093d88aee44e3e6e8f7480e6d103fe75ab526aa90
+    - name: stolon
+      home: https://github.com/sorintlab/stolon
+      sources:
+        - https://github.com/sorintlab/stolon
+        - https://github.com/lwolf/stolon-chart
+      version: 1.7.1
+      description: Stolon - PostgreSQL cloud native High Availability.
+      maintainers:
+        - name: rtluckie
+          email: rluckie@cisco.com
+        - name: lwolf
+          email: ipaq.lw@gmail.com
+      icon: https://i.imgur.com/tIW8sAW.png
+      apiVersion: v1
+      appVersion: 0.16.0
+      urls:
+        - stolon-1.7.1.tgz
+      created: 2023-01-24T10:43:01.187241245+03:00
+      digest: ccdb5707b0b6b705f81efbf6e6d05d79993144d54a8a1124dc4eb54443ba052c
+  syncthing:
+    - name: syncthing
+      home: https://github.com/k8s-at-home/charts/tree/master/charts/stable/syncthing
+      sources:
+        - https://syncthing.net/
+        - https://github.com/syncthing/syncthing
+      version: 3.3.0
+      description: Open Source Continuous File Synchronization
+      keywords:
+        - syncthing
+        - file sync
+      maintainers:
+        - name: FlipEnergy
+          email: dennis.zhang.nrg@gmail.com
+        - name: claughinghouse
+      icon: https://github.com/syncthing/syncthing/raw/main/assets/logo-128.png
+      apiVersion: v2
+      appVersion: 1.18.2
+      annotations:
+        artifacthub.io/changes: |
+          - kind: changed
+            description: Upgraded `common` chart dependency to version `4.3.0`.
+      kubeVersion: '>=1.16.0-0'
+      dependencies:
+        - name: common
+          version: 4.3.0
+          repository: https://chart.ddnw.ml
+      urls:
+        - syncthing-3.3.0.tgz
+      created: 2022-07-24T20:10:33.446488639+03:00
+      digest: e39f6e1753990f4d3856750af70856f74b011c0a22e2d6241c70f047077a11b3
+  thanos:
+    - name: thanos
+      home: https://bitnami.com
+      sources:
+        - https://github.com/bitnami/charts/tree/main/bitnami/thanos
+      version: 15.7.28
+      description: Thanos is a highly available metrics system that can be added on top of existing Prometheus deployments, providing a global query view across all Prometheus installations.
+      keywords:
+        - analytics
+        - monitoring
+        - prometheus
+        - thanos
+      maintainers:
+        - name: Broadcom, Inc. All Rights Reserved.
+          url: https://github.com/bitnami/charts
+      icon: https://bitnami.com/assets/stacks/thanos/img/thanos-stack-220x234.png
+      apiVersion: v2
+      appVersion: 0.36.1
+      annotations:
+        category: Analytics
+        images: |
+          - name: os-shell
+            image: docker.io/bitnami/os-shell:12-debian-12-r30
+          - name: thanos
+            image: docker.io/bitnami/thanos:0.36.1-debian-12-r3
+        licenses: Apache-2.0
+      dependencies:
+        - name: minio
+          version: 14.x.x
+          repository: oci://registry-1.docker.io/bitnamicharts
+          condition: minio.enabled
+        - name: common
+          version: 2.x.x
+          repository: oci://registry-1.docker.io/bitnamicharts
+          tags:
+            - bitnami-common
+      urls:
+        - thanos-15.7.28.tgz
+      created: 2025-04-17T07:57:54Z
+      digest: ab21c89c81f8cc50832a9e77350b60a1343400eee1439f3058e4b27da313775e
+    - name: thanos
+      home: https://github.com/bitnami/charts/tree/master/bitnami/thanos
+      sources:
+        - https://github.com/bitnami/containers/tree/main/bitnami/thanos
+        - https://thanos.io
+      version: 11.5.5
+      description: Thanos is a highly available metrics system that can be added on top of existing Prometheus deployments, providing a global query view across all Prometheus installations.
+      keywords:
+        - analytics
+        - monitoring
+        - prometheus
+        - thanos
+      maintainers:
+        - name: Bitnami
+          url: https://github.com/bitnami/charts
+      icon: https://bitnami.com/assets/stacks/thanos/img/thanos-stack-220x234.png
+      apiVersion: v2
+      appVersion: 0.28.1
+      annotations:
+        category: Analytics
+      dependencies:
+        - name: minio
+          version: 11.x.x
+          repository: https://charts.bitnami.com/bitnami
+          condition: minio.enabled
+        - name: common
+          version: 2.x.x
+          repository: https://charts.bitnami.com/bitnami
+          tags:
+            - bitnami-common
+      urls:
+        - thanos-11.5.5.tgz
+      created: 2025-04-17T07:54:36Z
+      digest: 0ba1433862253bc9f703d71db494b4e93b9429e712faa2cfc47d873ed9b4494e
+  transmission:
+    - name: transmission
+      home: https://github.com/k8s-at-home/charts/tree/master/charts/stable/transmission
+      sources:
+        - https://github.com/transmission/transmission
+        - https://github.com/k8s-at-home/container-images
+      version: 8.4.3
+      description: Transmission is a cross-platform BitTorrent client
+      keywords:
+        - transmission
+        - torrent
+      maintainers:
+        - name: ishioni
+          email: helm@movishell.pl
+        - name: bjw-s
+          email: me@bjw-s.dev
+      icon: https://raw.githubusercontent.com/transmission/transmission/main/extras/transmission-1920.jpg
+      apiVersion: v2
+      appVersion: v3.00
+      annotations:
+        artifacthub.io/changes: |-
+          - kind: changed
+            description: Fixed icon URL
+          - kind: changed
+            description: Upgraded `common` chart dependency to version 4.5.2
+      kubeVersion: '>=1.16.0-0'
+      dependencies:
+        - name: common
+          version: 4.5.2
+          repository: https://chart.ddn0w.ru
+      urls:
+        - transmission-8.4.3.tgz
+      created: 2024-04-01T16:14:42.738707274+03:00
+      digest: b458181752eb6dbf22f2f952f95ef2d05a17046da51f9876f2e4d4510945e03c
+  typesense:
+    - name: typesense
+      version: 0.1.1
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: "28.0"
+      type: application
+      urls:
+        - typesense-0.1.1.tgz
+      created: 2025-05-19T12:19:56.736819226Z
+      digest: 57f9c4eaf173bcfae41f24ad3629fa8814b5b05d004daef7b8409c83dc57a1b6
+    - name: typesense
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: "27.1"
+      type: application
+      urls:
+        - typesense-0.1.0.tgz
+      created: 2025-02-07T13:14:59.216717944+03:00
+      digest: 95ba8a3b4b987595f9a1caab694e70e29bd49a666c87e7c4ebceb93101bbe737
+  vault:
+    - name: vault
+      home: https://www.vaultproject.io
+      sources:
+        - https://github.com/hashicorp/vault
+        - https://github.com/hashicorp/vault-helm
+        - https://github.com/hashicorp/vault-k8s
+        - https://github.com/hashicorp/vault-csi-provider
+      version: 0.21.1
+      description: Official HashiCorp Vault Chart
+      keywords:
+        - vault
+        - security
+        - encryption
+        - secrets
+        - management
+        - automation
+        - infrastructure
+      icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
+      apiVersion: v2
+      appVersion: 1.11.2
+      kubeVersion: '>= 1.16.0-0'
+      urls:
+        - vault-0.21.1.tgz
+      created: 2022-09-05T12:07:31.743438031+03:00
+      digest: b52af65b7007fed2d0ad7fdb2501893a9529452e995447ed91c3ee54be119880
+    - name: vault
+      home: https://www.vaultproject.io
+      sources:
+        - https://github.com/hashicorp/vault
+        - https://github.com/hashicorp/vault-helm
+        - https://github.com/hashicorp/vault-k8s
+        - https://github.com/hashicorp/vault-csi-provider
+      version: 0.21.0
+      description: Official HashiCorp Vault Chart
+      keywords:
+        - vault
+        - security
+        - encryption
+        - secrets
+        - management
+        - automation
+        - infrastructure
+      icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
+      apiVersion: v2
+      appVersion: 1.11.2
+      kubeVersion: '>= 1.16.0-0'
+      urls:
+        - vault-0.21.0.tgz
+      created: 2022-08-18T10:15:20.860050868+03:00
+      digest: 27356375eac6d0b84bcc9c19c165131ee3120c0c211223146ccc66eef70ce271
+    - name: vault
+      home: https://www.vaultproject.io
+      sources:
+        - https://github.com/hashicorp/vault
+        - https://github.com/hashicorp/vault-helm
+        - https://github.com/hashicorp/vault-k8s
+        - https://github.com/hashicorp/vault-csi-provider
+      version: 0.19.0
+      description: Official HashiCorp Vault Chart
+      keywords:
+        - vault
+        - security
+        - encryption
+        - secrets
+        - management
+        - automation
+        - infrastructure
+      icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
+      apiVersion: v2
+      appVersion: 1.9.2
+      kubeVersion: '>= 1.14.0-0'
+      urls:
+        - vault-0.19.0.tgz
+      created: 2022-05-01T09:53:37Z
+      digest: 29699a6cf1939fbc2627cc839ae71b562c7b70413a55ee2a376c6c3d8b9fbf24
+  vault-auth:
+    - name: vault-auth
+      version: 0.1.2
+      description: Vault access rigths for external usage
+      apiVersion: v2
+      appVersion: 0.1.0
+      kubeVersion: '>= 1.16.0-0'
+      urls:
+        - vault-auth-0.1.2.tgz
+      created: 2024-02-05T17:44:41.400340334+03:00
+      digest: c8d6478faea6d392ed20d69ca794c92e9cbe24404ee26993152b2aa97d7d3018
+    - name: vault-auth
+      version: 0.1.1
+      description: Vault access rigths for external usage
+      apiVersion: v2
+      appVersion: 0.1.0
+      kubeVersion: '>= 1.16.0-0'
+      urls:
+        - vault-auth-0.1.1.tgz
+      created: 2023-09-25T20:31:07.255055026+03:00
+      digest: 9f258e50bd253704d7b5408cd9347330596d1c80ae265e701f0e3c3c1c44ecbb
+    - name: vault-auth
+      version: 0.1.0
+      description: Vault access rigths for external usage
+      apiVersion: v2
+      appVersion: 0.1.0
+      kubeVersion: '>= 1.16.0-0'
+      urls:
+        - vault-auth-0.1.0.tgz
+      created: 2023-08-16T16:34:22.674327899+03:00
+      digest: fdc0d7236bc595ded74a327b5bf51d440fea1e1ea2b8b8f8bdad14ca84730cfd
+  velero:
+    - name: velero
+      home: https://github.com/vmware-tanzu/velero
+      sources:
+        - https://github.com/vmware-tanzu/velero
+      version: 3.1.0
+      description: A Helm chart for velero
+      maintainers:
+        - name: jenting
+          email: hsiaoairplane@gmail.com
+        - name: sseago
+          email: sseago@redhat.com
+        - name: reasonerjt
+          email: jiangd@vmware.com
+        - name: ywk253100
+          email: yinw@vmware.com
+      icon: https://cdn-images-1.medium.com/max/1600/1*-9mb3AKnKdcL_QD3CMnthQ.png
+      apiVersion: v2
+      appVersion: 1.10.0
+      kubeVersion: '>=1.16.0-0'
+      urls:
+        - velero-3.1.0.tgz
+      created: 2023-01-24T11:45:32.757513321+03:00
+      digest: 32b9475db862f6838650ee8e5fdc9627cd836ebd1c60643a23cee6c7a7fae933
+  vlmcsd:
+    - name: vlmcsd
+      version: 0.1.0
+      description: A Helm chart for Kubernetes
+      apiVersion: v2
+      appVersion: 0.1.0
+      type: application
+      urls:
+        - vlmcsd-0.1.0.tgz
+      created: 2024-04-07T19:13:59.707498088+03:00
+      digest: ffdb4316f05b499f5aefa1a845d7c0fa617cf5ab2b8d8531926159a9288bdbb0

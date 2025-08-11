@@ -1,0 +1,9 @@
+export AWS_REGION=ru-msk
+export AWS_S3_ENDPOINT=https://hb.vkcs.cloud
+export AWS_S3_PUBLIC_READ=true
+export AWS_S3_FLATTEN=true
+export AWS_S3_PATH_STYLE=true
+export AWS_S3_BUCKET=<YOUR BUCKET>
+export AWS_S3_PREFIX=<YOUR BUCKET PREFIX PATH>
+export AWS_S3_KEY=<YOUR S3 KEY>
+export AWS_S3_SECRET=<YOUR S3 SECRET>
